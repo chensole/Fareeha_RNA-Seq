@@ -1,0 +1,131 @@
+"00261";Monobactam biosynthesis	
+"00071";Fatty acid degradation	
+"00640";Propanoate metabolism	
+"00010";Glycolysis / Gluconeogenesis	
+"00564";Glycerophospholipid metabolism	
+"00230";Purine metabolism	
+"04070";Phosphatidylinositol signaling system	
+"03040";Spliceosome	
+"03450";Non-homologous end-joining	
+"00190";Oxidative phosphorylation	
+"00600";Sphingolipid metabolism	
+"00960";Tropane, piperidine and pyridine alkaloid biosynthesis	
+"00563";Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	
+"00999";Biosynthesis of secondary metabolites - unclassified	
+"00072";Synthesis and degradation of ketone bodies	
+"04122";Sulfur relay system	
+"00730";Thiamine metabolism	
+"00603";Glycosphingolipid biosynthesis - globo and isoglobo series	
+"00941";Flavonoid biosynthesis	
+"03015";mRNA surveillance pathway	
+"00966";Glucosinolate biosynthesis	
+"00740";Riboflavin metabolism	
+"00196";Photosynthesis - antenna proteins	
+"00950";Isoquinoline alkaloid biosynthesis	
+"00630";Glyoxylate and dicarboxylate metabolism	
+"00531";Glycosaminoglycan degradation	
+"00902";Monoterpenoid biosynthesis	
+"04145";Phagosome	
+"00240";Pyrimidine metabolism	
+"03030";DNA replication	
+"00604";Glycosphingolipid biosynthesis - ganglio series	
+"04933";AGE-RAGE signaling pathway in diabetic complications	
+"00785";Lipoic acid metabolism	
+"00030";Pentose phosphate pathway	
+"00965";Betalain biosynthesis	
+"04712";Circadian rhythm - plant	
+"00920";Sulfur metabolism	
+"00061";Fatty acid biosynthesis	
+"03013";RNA transport	
+"04626";Plant-pathogen interaction	
+"00460";Cyanoamino acid metabolism	
+"00860";Porphyrin and chlorophyll metabolism	
+"04146";Peroxisome	
+"00360";Phenylalanine metabolism	
+"00710";Carbon fixation in photosynthetic organisms	
+"04130";SNARE interactions in vesicular transport	
+"00970";Aminoacyl-tRNA biosynthesis	
+"04075";Plant hormone signal transduction	
+"00195";Photosynthesis	
+"00062";Fatty acid elongation	
+"04144";Endocytosis	
+"04136";Autophagy - other	
+"00520";Amino sugar and nucleotide sugar metabolism	
+"00051";Fructose and mannose metabolism	
+"00590";Arachidonic acid metabolism	
+"00780";Biotin metabolism	
+"00565";Ether lipid metabolism	
+"03420";Nucleotide excision repair	
+"00040";Pentose and glucuronate interconversions	
+"00511";Other glycan degradation	
+"00450";Selenocompound metabolism	
+"00908";Zeatin biosynthesis	
+"00350";Tyrosine metabolism	
+"00280";Valine, leucine and isoleucine degradation	
+"03010";Ribosome	
+"00052";Galactose metabolism	
+"03022";Basal transcription factors	
+"00945";Stilbenoid, diarylheptanoid and gingerol biosynthesis	
+"01040";Biosynthesis of unsaturated fatty acids	
+"00592";alpha-Linolenic acid metabolism	
+"00510";N-Glycan biosynthesis	
+"00905";Brassinosteroid biosynthesis	
+"00909";Sesquiterpenoid and triterpenoid biosynthesis	
+"00670";One carbon pool by folate	
+"04141";Protein processing in endoplasmic reticulum	
+"00100";Steroid biosynthesis	
+"00440";Phosphonate and phosphinate metabolism	
+"03020";RNA polymerase	
+"00591";Linoleic acid metabolism	
+"00340";Histidine metabolism	
+"00400";Phenylalanine, tyrosine and tryptophan biosynthesis	
+"00300";Lysine biosynthesis	
+"03410";Base excision repair	
+"00620";Pyruvate metabolism	
+"00220";Arginine biosynthesis	
+"00430";Taurine and hypotaurine metabolism	
+"00770";Pantothenate and CoA biosynthesis	
+"00910";Nitrogen metabolism	
+"00330";Arginine and proline metabolism	
+"00130";Ubiquinone and other terpenoid-quinone biosynthesis	
+"03008";Ribosome biogenesis in eukaryotes	
+"00290";Valine, leucine and isoleucine biosynthesis	
+"00270";Cysteine and methionine metabolism	
+"00790";Folate biosynthesis	
+"00514";Other types of O-glycan biosynthesis	
+"00053";Ascorbate and aldarate metabolism	
+"00561";Glycerolipid metabolism	
+"00660";C5-Branched dibasic acid metabolism	
+"04016";MAPK signaling pathway - plant	
+"03060";Protein export	
+"00750";Vitamin B6 metabolism	
+"02010";ABC transporters	
+"00940";Phenylpropanoid biosynthesis	
+"00480";Glutathione metabolism	
+"00562";Inositol phosphate metabolism	
+"00380";Tryptophan metabolism	
+"03018";RNA degradation	
+"00073";Cutin, suberine and wax biosynthesis	
+"00515";Mannose type O-glycan biosynthesis	
+"03430";Mismatch repair	
+"00250";Alanine, aspartate and glutamate metabolism	
+"00900";Terpenoid backbone biosynthesis	
+"00310";Lysine degradation	
+"00410";beta-Alanine metabolism	
+"00650";Butanoate metabolism	
+"00232";Caffeine metabolism	
+"00906";Carotenoid biosynthesis	
+"00944";Flavone and flavonol biosynthesis	
+"03050";Proteasome	
+"03440";Homologous recombination	
+"00020";Citrate cycle (TCA cycle)	
+"00998";Biosynthesis of secondary metabolites - other antibiotics	
+"00904";Diterpenoid biosynthesis	
+"00760";Nicotinate and nicotinamide metabolism	
+"01502";Vancomycin resistance	
+"04120";Ubiquitin mediated proteolysis	
+"00601";Glycosphingolipid biosynthesis - lacto and neolacto series	
+"00500";Starch and sucrose metabolism	
+"00903";Limonene and pinene degradation	
+"00260";Glycine, serine and threonine metabolism	
+"00943";Isoflavonoid biosynthesis	
